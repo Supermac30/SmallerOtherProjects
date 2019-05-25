@@ -1,1 +1,0 @@
-- not adding a name in the user database when trading crashes the program
