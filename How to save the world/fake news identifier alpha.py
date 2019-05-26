@@ -1,6 +1,5 @@
 """
-    This code is meant to identify all fake news sources whose sole purpose is to
-    spread propaganda and allow a mislead group of sheep to make incredibly bad decisions
+    The purpose of this code is to identify the reliablity of a news source.
 """
 
 import re
