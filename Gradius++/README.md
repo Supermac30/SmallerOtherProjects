@@ -6,7 +6,7 @@ Using the p5 library I made a scrolling shooter. The p5 library is included in t
 
 It uses the music from the nes-era game Gradius.
 
-To play download the Games/Gradius++ directory and run the HTML file in your browser.
+To play download this directory and run the HTML file in your browser.
 
 ## controls
 WASD for movement and space to shoot. R is to restart.
