@@ -1,7 +1,8 @@
 #include <IRremote.h>
 IRsend irsend;
-bool sent = true;
+bool sent;
 void whatdoyoumean(){
+  sent = true;
   switch(Serial.parseInt()){
     case 1: irsend.sendSAMSUNG(0xE0E040BF,32);
     case 2: irsend.sendSAMSUNG(0xE0E0F00F,32);
