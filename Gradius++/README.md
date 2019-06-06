@@ -9,4 +9,4 @@ It uses the music from the nes-era game Gradius.
 To play download this directory and run the HTML file in your browser.
 
 ## controls
-WASD for movement and space to shoot. R is to restart.
+press WASD for movement and space to shoot. R is to restart.
