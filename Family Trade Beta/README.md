@@ -7,7 +7,7 @@ This is incomplete.
 To use the code here download this directory and run the source code file.
 
 ## Functionality to be added
-- The server and client files are currently empty. I will later add online functionality to this code as practice.
+- Create a server and client as networking practice.
 - I have wanted to learn how to implement a blockchain in my code for a while, this could be the perfect place to learn.
 
 Will come back to this project soon.
